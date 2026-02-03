@@ -1,6 +1,6 @@
 
 # Dependencies and External Libraries
-Pods/*
+Pods/
 
 # Dont ignore
 !Pods/Podfile
