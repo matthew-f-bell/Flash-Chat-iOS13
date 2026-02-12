@@ -1,0 +1,8 @@
+
+# Dependencies and External Libraries
+Pods/
+Products/
+Frameworks/
+
+# Protect Secret Info
+GoogleService-Info.plist

@@ -1,0 +1,7 @@
+
+# Ignore all dependencies
+Frameworks/
+Pods/
+Products/
+"Targets Support Files/"
+
